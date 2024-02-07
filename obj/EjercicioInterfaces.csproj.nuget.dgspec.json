@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\datArchivos\\Respaldo\\Respaldo\\Respaldo\\UNITEC\\TECNICO DESARROLLO APLICACIONES WEB\\PROGRAMACION II\\Proyectos\\EjercicioInterfaces\\EjercicioInterfaces\\EjercicioInterfaces.csproj": {}
+    "D:\\datArchivos\\Respaldo\\Respaldo\\Respaldo\\UNITEC\\TECNICO DESARROLLO APLICACIONES WEB\\PROGRAMACION II\\EjercicioInterfaces\\EjercicioInterfaces\\EjercicioInterfaces.csproj": {}
   },
   "projects": {
-    "D:\\datArchivos\\Respaldo\\Respaldo\\Respaldo\\UNITEC\\TECNICO DESARROLLO APLICACIONES WEB\\PROGRAMACION II\\Proyectos\\EjercicioInterfaces\\EjercicioInterfaces\\EjercicioInterfaces.csproj": {
+    "D:\\datArchivos\\Respaldo\\Respaldo\\Respaldo\\UNITEC\\TECNICO DESARROLLO APLICACIONES WEB\\PROGRAMACION II\\EjercicioInterfaces\\EjercicioInterfaces\\EjercicioInterfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\datArchivos\\Respaldo\\Respaldo\\Respaldo\\UNITEC\\TECNICO DESARROLLO APLICACIONES WEB\\PROGRAMACION II\\Proyectos\\EjercicioInterfaces\\EjercicioInterfaces\\EjercicioInterfaces.csproj",
+        "projectUniqueName": "D:\\datArchivos\\Respaldo\\Respaldo\\Respaldo\\UNITEC\\TECNICO DESARROLLO APLICACIONES WEB\\PROGRAMACION II\\EjercicioInterfaces\\EjercicioInterfaces\\EjercicioInterfaces.csproj",
         "projectName": "EjercicioInterfaces",
-        "projectPath": "D:\\datArchivos\\Respaldo\\Respaldo\\Respaldo\\UNITEC\\TECNICO DESARROLLO APLICACIONES WEB\\PROGRAMACION II\\Proyectos\\EjercicioInterfaces\\EjercicioInterfaces\\EjercicioInterfaces.csproj",
+        "projectPath": "D:\\datArchivos\\Respaldo\\Respaldo\\Respaldo\\UNITEC\\TECNICO DESARROLLO APLICACIONES WEB\\PROGRAMACION II\\EjercicioInterfaces\\EjercicioInterfaces\\EjercicioInterfaces.csproj",
         "packagesPath": "C:\\Users\\cespinozab\\.nuget\\packages\\",
-        "outputPath": "D:\\datArchivos\\Respaldo\\Respaldo\\Respaldo\\UNITEC\\TECNICO DESARROLLO APLICACIONES WEB\\PROGRAMACION II\\Proyectos\\EjercicioInterfaces\\EjercicioInterfaces\\obj\\",
+        "outputPath": "D:\\datArchivos\\Respaldo\\Respaldo\\Respaldo\\UNITEC\\TECNICO DESARROLLO APLICACIONES WEB\\PROGRAMACION II\\EjercicioInterfaces\\EjercicioInterfaces\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
