@@ -1,0 +1,14 @@
+D:\datArchivos\Respaldo\Respaldo\Respaldo\UNITEC\TECNICO DESARROLLO APLICACIONES WEB\PROGRAMACION II\Proyectos\EjercicioInterfaces\EjercicioInterfaces\bin\Debug\net8.0\EjercicioInterfaces.exe
+D:\datArchivos\Respaldo\Respaldo\Respaldo\UNITEC\TECNICO DESARROLLO APLICACIONES WEB\PROGRAMACION II\Proyectos\EjercicioInterfaces\EjercicioInterfaces\bin\Debug\net8.0\EjercicioInterfaces.deps.json
+D:\datArchivos\Respaldo\Respaldo\Respaldo\UNITEC\TECNICO DESARROLLO APLICACIONES WEB\PROGRAMACION II\Proyectos\EjercicioInterfaces\EjercicioInterfaces\bin\Debug\net8.0\EjercicioInterfaces.runtimeconfig.json
+D:\datArchivos\Respaldo\Respaldo\Respaldo\UNITEC\TECNICO DESARROLLO APLICACIONES WEB\PROGRAMACION II\Proyectos\EjercicioInterfaces\EjercicioInterfaces\bin\Debug\net8.0\EjercicioInterfaces.dll
+D:\datArchivos\Respaldo\Respaldo\Respaldo\UNITEC\TECNICO DESARROLLO APLICACIONES WEB\PROGRAMACION II\Proyectos\EjercicioInterfaces\EjercicioInterfaces\bin\Debug\net8.0\EjercicioInterfaces.pdb
+D:\datArchivos\Respaldo\Respaldo\Respaldo\UNITEC\TECNICO DESARROLLO APLICACIONES WEB\PROGRAMACION II\Proyectos\EjercicioInterfaces\EjercicioInterfaces\obj\Debug\net8.0\EjercicioInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\datArchivos\Respaldo\Respaldo\Respaldo\UNITEC\TECNICO DESARROLLO APLICACIONES WEB\PROGRAMACION II\Proyectos\EjercicioInterfaces\EjercicioInterfaces\obj\Debug\net8.0\EjercicioInterfaces.AssemblyInfoInputs.cache
+D:\datArchivos\Respaldo\Respaldo\Respaldo\UNITEC\TECNICO DESARROLLO APLICACIONES WEB\PROGRAMACION II\Proyectos\EjercicioInterfaces\EjercicioInterfaces\obj\Debug\net8.0\EjercicioInterfaces.AssemblyInfo.cs
+D:\datArchivos\Respaldo\Respaldo\Respaldo\UNITEC\TECNICO DESARROLLO APLICACIONES WEB\PROGRAMACION II\Proyectos\EjercicioInterfaces\EjercicioInterfaces\obj\Debug\net8.0\EjercicioInterfaces.csproj.CoreCompileInputs.cache
+D:\datArchivos\Respaldo\Respaldo\Respaldo\UNITEC\TECNICO DESARROLLO APLICACIONES WEB\PROGRAMACION II\Proyectos\EjercicioInterfaces\EjercicioInterfaces\obj\Debug\net8.0\EjercicioInterfaces.dll
+D:\datArchivos\Respaldo\Respaldo\Respaldo\UNITEC\TECNICO DESARROLLO APLICACIONES WEB\PROGRAMACION II\Proyectos\EjercicioInterfaces\EjercicioInterfaces\obj\Debug\net8.0\refint\EjercicioInterfaces.dll
+D:\datArchivos\Respaldo\Respaldo\Respaldo\UNITEC\TECNICO DESARROLLO APLICACIONES WEB\PROGRAMACION II\Proyectos\EjercicioInterfaces\EjercicioInterfaces\obj\Debug\net8.0\EjercicioInterfaces.pdb
+D:\datArchivos\Respaldo\Respaldo\Respaldo\UNITEC\TECNICO DESARROLLO APLICACIONES WEB\PROGRAMACION II\Proyectos\EjercicioInterfaces\EjercicioInterfaces\obj\Debug\net8.0\EjercicioInterfaces.genruntimeconfig.cache
+D:\datArchivos\Respaldo\Respaldo\Respaldo\UNITEC\TECNICO DESARROLLO APLICACIONES WEB\PROGRAMACION II\Proyectos\EjercicioInterfaces\EjercicioInterfaces\obj\Debug\net8.0\ref\EjercicioInterfaces.dll
